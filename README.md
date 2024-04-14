@@ -14,6 +14,15 @@ With seamless integration, intuitive user interfaces, and a commitment to enhanc
 
 In this era of digital abundance, the Movie Recommender System invites users to embark on a personalized cinematic journey, guided by algorithms that understand, adapt, and evolve with each viewing experience. Welcome to a future where the joy of discovering the perfect movie is just a recommendation away.
 
+## Usage
+To run the app locally, follow these steps:
+1. Clone this repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Navigate to the directory containing the app files.
+4. Run the Streamlit app using the command `streamlit run app.py`.
+5. Access the app in your web browser at the provided URL.
+
+
 ### Features
 
 1. **Collaborative Filtering:**
