@@ -3,7 +3,6 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-Project-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
-![Machine Learning](https://img.shields.io/badge/Recommender%System-Models-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 The Movie Recommender System is a personalized recommendation engine crafted to aid users in exploring movies based on their preferences and past viewing habits.
